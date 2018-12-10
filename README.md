@@ -1,6 +1,6 @@
 # ADM_HW4_GROUP_8
 
-
+Atefeh Moradan, Elena lavinia Diaconu, Carlo Orsellini
 The repository consists of the following files:
 1. __`Homework_4.ipynb`__: 
      > A Jupyter notebook which provides the code of the project.
